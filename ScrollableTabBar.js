@@ -230,11 +230,11 @@ const styles = StyleSheet.create({
   },
   container: {
     height: 50,
-    borderWidth: 1,
+    borderWidth: 0.5,
     borderTopWidth: 0,
     borderLeftWidth: 0,
     borderRightWidth: 0,
-    borderColor: '#ccc',
+    borderColor: '#e9e8e8',
   },
   tabs: {
     flexDirection: 'row',
